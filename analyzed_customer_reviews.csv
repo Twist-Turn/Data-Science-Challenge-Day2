@@ -1,0 +1,245 @@
+Review,Sentiment,Sentiment_Label
+I loved this product! It's amazing.,0.7375,Positive
+This product was terrible. I wouldn't recommend it.,-1.0,Negative
+I'm neutral about this product.,0.0,Neutral
+The service was excellent!,1.0,Positive
+The quality of the item is poor.,-0.4,Negative
+I'm very satisfied with my purchase.,0.65,Positive
+This company provides great customer service.,0.8,Positive
+The delivery was fast and efficient.,0.2,Positive
+I had a bad experience with this product.,-0.6999999999999998,Negative
+The product arrived damaged.,0.0,Neutral
+The customer support was unhelpful.,0.0,Neutral
+I'm happy with the product.,0.8,Positive
+The price is too high for what you get.,0.16,Positive
+I would not buy from this company again.,0.0,Neutral
+The product exceeded my expectations.,0.0,Neutral
+I received the wrong item.,-0.5,Negative
+The packaging was damaged.,0.0,Neutral
+This item doesn't work as advertised.,0.0,Neutral
+The shipping was delayed.,0.0,Neutral
+I'm disappointed with the quality.,-0.75,Negative
+The customer service representatives were rude.,-0.3,Negative
+I'm extremely pleased with my purchase.,0.5,Positive
+I had a positive experience with this company.,0.22727272727272727,Positive
+I'm satisfied with the service provided.,0.5,Positive
+The product is exactly what I needed.,0.25,Positive
+The return process was easy.,0.43333333333333335,Positive
+I'm not happy with my purchase.,-0.4,Negative
+The website is user-friendly.,0.0,Neutral
+The item was missing parts.,-0.2,Negative
+The product is worth the price.,0.3,Positive
+I encountered problems with this product.,0.0,Neutral
+The item arrived on time.,0.0,Neutral
+I'm impressed with the quality.,1.0,Positive
+I would recommend this product to others.,0.0,Neutral
+The company offers fast shipping.,0.15000000000000002,Positive
+The product is durable.,0.0,Neutral
+The customer service was exceptional.,0.6666666666666666,Positive
+I'm dissatisfied with the customer support.,0.0,Neutral
+The product arrived in perfect condition.,1.0,Positive
+The instructions were unclear.,0.0,Neutral
+The product is not as described.,0.0,Neutral
+The website is slow and difficult to navigate.,-0.4,Negative
+The item broke after just a few uses.,-0.2,Negative
+The product is overpriced.,0.0,Neutral
+I'm thrilled with my purchase.,0.6,Positive
+The company has a great return policy.,0.8,Positive
+I had a great experience with this product.,0.8,Positive
+The item was exactly what I expected.,0.075,Positive
+The shipping cost was too high.,0.16,Positive
+I'm happy with the customer service.,0.8,Positive
+The product is poorly made.,-0.4,Negative
+The website crashed when I tried to place an order.,0.0,Neutral
+The delivery was delayed.,0.0,Neutral
+The item was smaller than I anticipated.,0.0,Neutral
+The product works well.,0.0,Neutral
+The packaging was secure.,0.4,Positive
+The customer service was slow to respond.,-0.30000000000000004,Negative
+The product arrived damaged.,0.0,Neutral
+The quality of the item is excellent.,1.0,Positive
+I'm satisfied with my purchase.,0.5,Positive
+The return process was hassle-free.,0.0,Neutral
+The item was delivered quickly.,0.3333333333333333,Positive
+The company provides excellent support.,1.0,Positive
+I'm disappointed with the service.,-0.75,Negative
+The product didn't meet my expectations.,0.0,Neutral
+The shipping was free.,0.4,Positive
+The item was defective.,0.0,Neutral
+The customer service was helpful.,0.0,Neutral
+The product is easy to use.,0.43333333333333335,Positive
+The website is outdated.,-0.4000000000000001,Negative
+The item was of poor quality.,-0.4,Negative
+The delivery was prompt.,0.0,Neutral
+The product is great value for money.,0.8,Positive
+The company stands behind their products.,-0.4,Negative
+I'm impressed with the customer service.,1.0,Positive
+The product arrived on time.,0.0,Neutral
+The instructions were easy to follow.,0.43333333333333335,Positive
+The item was damaged during shipping.,0.0,Neutral
+The quality of the product exceeded my expectations.,0.0,Neutral
+I'm satisfied with the quality of the item.,0.5,Positive
+The website is well-designed.,0.0,Neutral
+The customer service representatives were knowledgeable.,0.0,Neutral
+The product performs as expected.,-0.1,Negative
+The shipping was fast.,0.2,Positive
+The item was exactly as described.,0.25,Positive
+The company offers a wide range of products.,0.0,Neutral
+The product is reliable.,0.0,Neutral
+The customer service team was friendly.,0.375,Positive
+The item was easy to assemble.,0.43333333333333335,Positive
+The packaging was eco-friendly.,0.0,Neutral
+The delivery was efficient.,0.0,Neutral
+The product is durable and long-lasting.,0.0,Neutral
+The website is informative.,0.0,Neutral
+The item arrived in good condition.,0.7,Positive
+The product is easy to install.,0.43333333333333335,Positive
+The customer service was attentive.,0.4,Positive
+The shipping was quick.,0.3333333333333333,Positive
+The product works perfectly.,1.0,Positive
+The packaging was excessive.,-0.25,Negative
+The delivery was on schedule.,0.0,Neutral
+The item was high quality.,0.16,Positive
+The product is versatile.,0.0,Neutral
+The website is secure.,0.4,Positive
+The customer service was responsive.,0.0,Neutral
+The shipping was trackable.,0.0,Neutral
+The product is stylish.,0.5,Positive
+The packaging was minimalistic.,0.0,Neutral
+The delivery was on time.,0.0,Neutral
+The item was a good value.,0.7,Positive
+The product is innovative.,0.5,Positive
+The website is intuitive.,0.0,Neutral
+The customer service was reliable.,0.0,Neutral
+The shipping was reliable.,0.0,Neutral
+The product is functional.,0.0,Neutral
+The packaging was professional.,0.1,Positive
+The delivery was punctual.,0.0,Neutral
+The item was affordable.,0.0,Neutral
+The product is convenient.,0.0,Neutral
+The website is easy to navigate.,0.43333333333333335,Positive
+The customer service was satisfactory.,0.0,Neutral
+The shipping was efficient.,0.0,Neutral
+The product is practical.,0.0,Neutral
+The packaging was well-presented.,0.0,Neutral
+The delivery was seamless.,0.1,Positive
+The item was cost-effective.,0.0,Neutral
+The product is user-friendly.,0.0,Neutral
+The website is user-friendly.,0.0,Neutral
+The customer service was professional.,0.1,Positive
+The shipping was prompt.,0.0,Neutral
+The product is efficient.,0.0,Neutral
+The packaging was neat.,0.0,Neutral
+The delivery was quick.,0.3333333333333333,Positive
+The item was well-packaged.,0.0,Neutral
+The product is effective.,0.6,Positive
+The website is easy to use.,0.43333333333333335,Positive
+The customer service was excellent.,1.0,Positive
+The shipping was fast and reliable.,0.2,Positive
+The product is durable.,0.0,Neutral
+The packaging was secure.,0.4,Positive
+The delivery was on time.,0.0,Neutral
+The item was high-quality.,0.0,Neutral
+The product is reliable.,0.0,Neutral
+The website is informative.,0.0,Neutral
+The customer service was helpful.,0.0,Neutral
+The shipping was efficient.,0.0,Neutral
+The product is easy to use.,0.43333333333333335,Positive
+The packaging was eco-friendly.,0.0,Neutral
+The delivery was prompt.,0.0,Neutral
+The item was exactly as described.,0.25,Positive
+The product is versatile.,0.0,Neutral
+The website is secure.,0.4,Positive
+The customer service was responsive.,0.0,Neutral
+The shipping was quick.,0.3333333333333333,Positive
+The product is stylish.,0.5,Positive
+The packaging was minimalistic.,0.0,Neutral
+The delivery was on time.,0.0,Neutral
+The item was a good value.,0.7,Positive
+The product is innovative.,0.5,Positive
+The website is intuitive.,0.0,Neutral
+The customer service was reliable.,0.0,Neutral
+The shipping was reliable.,0.0,Neutral
+The product is functional.,0.0,Neutral
+The packaging was professional.,0.1,Positive
+The delivery was punctual.,0.0,Neutral
+The item was affordable.,0.0,Neutral
+The product is convenient.,0.0,Neutral
+The website is easy to navigate.,0.43333333333333335,Positive
+The customer service was satisfactory.,0.0,Neutral
+The shipping was efficient.,0.0,Neutral
+The product is practical.,0.0,Neutral
+The packaging was well-presented.,0.0,Neutral
+The delivery was seamless.,0.1,Positive
+The item was cost-effective.,0.0,Neutral
+The product is user-friendly.,0.0,Neutral
+The website is user-friendly.,0.0,Neutral
+The customer service was professional.,0.1,Positive
+The shipping was prompt.,0.0,Neutral
+The product is efficient.,0.0,Neutral
+The packaging was neat.,0.0,Neutral
+The delivery was quick.,0.3333333333333333,Positive
+The item was well-packaged.,0.0,Neutral
+The product is effective.,0.6,Positive
+The website is easy to use.,0.43333333333333335,Positive
+The customer service was excellent.,1.0,Positive
+The shipping was fast and reliable.,0.2,Positive
+The product is durable.,0.0,Neutral
+The packaging was secure.,0.4,Positive
+The delivery was on time.,0.0,Neutral
+The item was high-quality.,0.0,Neutral
+The product is reliable.,0.0,Neutral
+The website is informative.,0.0,Neutral
+The customer service was helpful.,0.0,Neutral
+The shipping was efficient.,0.0,Neutral
+The product is easy to use.,0.43333333333333335,Positive
+The packaging was eco-friendly.,0.0,Neutral
+The delivery was prompt.,0.0,Neutral
+The item was exactly as described.,0.25,Positive
+The product is versatile.,0.0,Neutral
+The website is secure.,0.4,Positive
+The customer service was responsive.,0.0,Neutral
+The shipping was quick.,0.3333333333333333,Positive
+The product is stylish.,0.5,Positive
+The packaging was minimalistic.,0.0,Neutral
+The delivery was on time.,0.0,Neutral
+The item was a good value.,0.7,Positive
+The product is innovative.,0.5,Positive
+The website is intuitive.,0.0,Neutral
+The customer service was reliable.,0.0,Neutral
+The shipping was reliable.,0.0,Neutral
+The product is functional.,0.0,Neutral
+The packaging was professional.,0.1,Positive
+The delivery was punctual.,0.0,Neutral
+The item was affordable.,0.0,Neutral
+The product is convenient.,0.0,Neutral
+The website is easy to navigate.,0.43333333333333335,Positive
+The customer service was satisfactory.,0.0,Neutral
+The shipping was efficient.,0.0,Neutral
+The product is practical.,0.0,Neutral
+The packaging was well-presented.,0.0,Neutral
+The delivery was seamless.,0.1,Positive
+The item was cost-effective.,0.0,Neutral
+The product is user-friendly.,0.0,Neutral
+The website is user-friendly.,0.0,Neutral
+The customer service was professional.,0.1,Positive
+The shipping was prompt.,0.0,Neutral
+The product is efficient.,0.0,Neutral
+The packaging was neat.,0.0,Neutral
+The delivery was quick.,0.3333333333333333,Positive
+The item was well-packaged.,0.0,Neutral
+The product is effective.,0.6,Positive
+The website is easy to use.,0.43333333333333335,Positive
+The customer service was excellent.,1.0,Positive
+The shipping was fast and reliable.,0.2,Positive
+The product is durable.,0.0,Neutral
+The packaging was secure.,0.4,Positive
+The delivery was on time.,0.0,Neutral
+The item was high-quality.,0.0,Neutral
+The product is reliable.,0.0,Neutral
+The website is informative.,0.0,Neutral
+The customer service was helpful.,0.0,Neutral
+The shipping was efficient.,0.0,Neutral
+The product is easy to use.,0.43333333333333335,Positive
+The packaging was eco-friendly.,0.0,Neutral
+The delivery was prompt.,0.0,Neutral
